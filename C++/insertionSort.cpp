@@ -21,8 +21,7 @@ void insertionSort(int size, int arr[]){
             Swap(arr[j-1],arr[j]);
             j--;
         }
-    }
-}
+    }   }
 
 int main(){
     int size;
